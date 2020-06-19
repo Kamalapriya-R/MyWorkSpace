@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 // The Class name should not be same as package name as it conflicts with the package import.
+@SuppressWarnings("unused")
 public class ArrayListTest {
 
 	public static void main(String[] args) {
