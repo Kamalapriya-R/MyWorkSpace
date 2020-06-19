@@ -6,7 +6,7 @@ import java.util.Collections;
 public class ArrayListTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		/*ArrayList:
 		 * 1. Dynamic Array storing duplicate elements of all data types
 		 * 2. Maintains insertion order and non-synchronized
